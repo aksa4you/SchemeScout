@@ -1,0 +1,12 @@
+   [
+     {
+       "name": "PM-KISAN",
+       "source": "https://pmkisan.gov.in",
+       "rules": { "occupation": ["farmer"], "min_land_acres": 0.01 }
+     },
+     {
+       "name": "Atal Pension Yojana",
+       "source": "https://www.npscra.nsdl.co.in",
+       "rules": { "min_age": 18, "max_age": 40 }
+     }
+   ]
