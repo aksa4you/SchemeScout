@@ -1,0 +1,7 @@
+   fastapi
+   uvicorn
+   langgraph
+   google-genai
+   reportlab
+   requests
+   python-dotenv
